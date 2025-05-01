@@ -3,7 +3,7 @@ using namespace std;
 typedef long long ll;
 
 // First recap modular arithmetic formulas
-
+// https://drive.google.com/file/d/1U3Up7_QlhtpAclfkGaGASNzAgx0NSwzs/v
 
 /*
 Why do we print the answer modulo 10^9 + 7 (which is 1000000007)?
